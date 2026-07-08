@@ -1,0 +1,27 @@
+{
+  "entry": [
+    {
+      "changes": [
+        {
+          "value": {
+            "messages": [
+              {
+                "from": "919876543210",
+                "text": {
+                  "body": "Hi Property AI, I am interested in Property ID: HYD-KOND-102. Please share details."
+                }
+              }
+            ],
+            "contacts": [
+              {
+                "profile": {
+                  "name": "Rahul Sharma"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
